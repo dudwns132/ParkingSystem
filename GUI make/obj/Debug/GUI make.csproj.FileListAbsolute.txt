@@ -1,0 +1,62 @@
+C:\Users\User\source\repos\client\GUI make\bin\Debug\GUI make.exe.config
+C:\Users\User\source\repos\client\GUI make\bin\Debug\GUI make.exe
+C:\Users\User\source\repos\client\GUI make\bin\Debug\GUI make.pdb
+C:\Users\User\source\repos\client\GUI make\obj\Debug\GUI make.csprojAssemblyReference.cache
+C:\Users\User\source\repos\client\GUI make\obj\Debug\GUI_make.LoginForm.resources
+C:\Users\User\source\repos\client\GUI make\obj\Debug\GUI_make.Properties.Resources.resources
+C:\Users\User\source\repos\client\GUI make\obj\Debug\GUI make.csproj.GenerateResource.cache
+C:\Users\User\source\repos\client\GUI make\obj\Debug\GUI make.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\client\GUI make\obj\Debug\GUI make.exe
+C:\Users\User\source\repos\client\GUI make\obj\Debug\GUI make.pdb
+C:\Users\User\source\repos\client\GUI make\obj\Debug\GUI_make.MainForm.resources
+C:\Users\82109\Desktop\client\GUI make\obj\Debug\GUI make.csprojAssemblyReference.cache
+C:\Users\82109\Desktop\client\GUI make\obj\Debug\GUI_make.LoginForm.resources
+C:\Users\82109\Desktop\client\GUI make\obj\Debug\GUI_make.MainForm.resources
+C:\Users\82109\Desktop\client\GUI make\obj\Debug\GUI make.csproj.GenerateResource.cache
+C:\Users\82109\Desktop\client\GUI make\obj\Debug\GUI make.exe
+C:\Users\82109\Desktop\client\GUI make\obj\Debug\GUI make.pdb
+C:\Users\82109\Desktop\client\GUI make\bin\Debug\GUI make.exe.config
+C:\Users\82109\Desktop\client\GUI make\bin\Debug\GUI make.exe
+C:\Users\82109\Desktop\client\GUI make\bin\Debug\GUI make.pdb
+C:\Users\82109\Desktop\client\GUI make\obj\Debug\GUI_make.Properties.Resources.resources
+C:\Users\82109\Desktop\client\GUI make\obj\Debug\GUI make.csproj.CoreCompileInputs.cache
+C:\Users\82109\Desktop\client\GUI make\obj\Debug\GUI_make.signUpForm.resources
+C:\Users\User\OneDrive\바탕 화면\client\client\GUI make\obj\Debug\GUI make.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\바탕 화면\client\client\GUI make\obj\Debug\GUI make.exe
+C:\Users\User\OneDrive\바탕 화면\client\client\GUI make\obj\Debug\GUI make.pdb
+C:\Users\User\OneDrive\바탕 화면\client\client\GUI make\obj\Debug\GUI_make.signUpForm.resources
+C:\Users\User\OneDrive\바탕 화면\client\client\GUI make\obj\Debug\GUI_make.LoginForm.resources
+C:\Users\User\OneDrive\바탕 화면\client\client\GUI make\obj\Debug\GUI_make.MainForm.resources
+C:\Users\User\OneDrive\바탕 화면\client\client\GUI make\obj\Debug\GUI make.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\바탕 화면\client\client\GUI make\bin\Debug\GUI make.exe.config
+C:\Users\User\OneDrive\바탕 화면\client\client\GUI make\bin\Debug\GUI make.exe
+C:\Users\User\OneDrive\바탕 화면\client\client\GUI make\bin\Debug\GUI make.pdb
+C:\Users\User\OneDrive\바탕 화면\client\client\GUI make\obj\Debug\GUI_make.Properties.Resources.resources
+C:\Users\User\OneDrive\바탕 화면\client\client\GUI make\obj\Debug\GUI make.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\바탕 화면\client\client\GUI make\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\OneDrive\바탕 화면\client\client\GUI make\bin\Debug\Google.Protobuf.dll
+C:\Users\User\OneDrive\바탕 화면\client\client\GUI make\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\OneDrive\바탕 화면\client\client\GUI make\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\OneDrive\바탕 화면\client\client\GUI make\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\OneDrive\바탕 화면\client\client\GUI make\bin\Debug\MySql.Data.dll
+C:\Users\User\OneDrive\바탕 화면\client\client\GUI make\bin\Debug\Renci.SshNet.dll
+C:\Users\User\OneDrive\바탕 화면\client\client\GUI make\bin\Debug\System.Buffers.dll
+C:\Users\User\OneDrive\바탕 화면\client\client\GUI make\bin\Debug\System.Memory.dll
+C:\Users\User\OneDrive\바탕 화면\client\client\GUI make\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\OneDrive\바탕 화면\client\client\GUI make\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\OneDrive\바탕 화면\client\client\GUI make\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\OneDrive\바탕 화면\client\client\GUI make\bin\Debug\Zstandard.Net.dll
+C:\Users\User\OneDrive\바탕 화면\client\client\GUI make\bin\Debug\Google.Protobuf.xml
+C:\Users\User\OneDrive\바탕 화면\client\client\GUI make\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\User\OneDrive\바탕 화면\client\client\GUI make\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\OneDrive\바탕 화면\client\client\GUI make\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\User\OneDrive\바탕 화면\client\client\GUI make\bin\Debug\MySql.Data.xml
+C:\Users\User\OneDrive\바탕 화면\client\client\GUI make\bin\Debug\Renci.SshNet.xml
+C:\Users\User\OneDrive\바탕 화면\client\client\GUI make\bin\Debug\System.Buffers.xml
+C:\Users\User\OneDrive\바탕 화면\client\client\GUI make\bin\Debug\System.Memory.xml
+C:\Users\User\OneDrive\바탕 화면\client\client\GUI make\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\OneDrive\바탕 화면\client\client\GUI make\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\OneDrive\바탕 화면\client\client\GUI make\obj\Debug\GUI make.csproj.CopyComplete
+C:\Users\User\OneDrive\바탕 화면\client\client\GUI make\obj\Debug\GUI_make.ParkingForm.resources
+C:\Users\User\OneDrive\바탕 화면\client\client\GUI make\obj\Debug\GUI_make.IdFindForm.resources
+C:\Users\User\OneDrive\바탕 화면\client\client\GUI make\obj\Debug\GUI_make.PwFindForm.resources

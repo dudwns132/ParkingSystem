@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\User\OneDrive\바탕 화면\client\client\Server\main.cpp(66,12): warning C4101: 'sql_row' :참조되지 않은 지역 변수입니다.
+C:\Users\User\OneDrive\바탕 화면\client\client\Server\main.cpp(65,13): warning C4101: 'sql_result' :참조되지 않은 지역 변수입니다.
+  Server.vcxproj -> C:\Users\User\OneDrive\바탕 화면\client\client\x64\Debug\Server.exe
